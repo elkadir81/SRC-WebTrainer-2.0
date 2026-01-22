@@ -1,0 +1,176 @@
+[
+  {
+    "id": "I",
+    "image": "assets/lagen/lage_I_II.jpeg",
+    "task": "ÜBUNGSLAGE I<br><br>Deine Segelyacht Albatros [FSt1] (DB0879/211003390) sinkt nach Kenterung in schwerer See, 8 Personen sind an Bord, das Boot ist 12 m lang und hat einen roten Rumpf. Sofortige Hilfe ist erforderlich.<br><br>Deine Position ist 54-35N 010-28E um 141731 UTC Jun.<br><br>Die Motoryacht Pinguin [FSt2] (DD1791/211003330) ist 3,5 sm südwestlich und ist in 25 min vor Ort.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "II",
+    "image": "assets/lagen/lage_I_II.jpeg",
+    "task": "ÜBUNGSLAGE II<br><br>Deine Segelyacht Pinguin [FSt2] (DD1791/211003330) sinkt um 161720 UTC Jun nach Kollision mit unbekanntem Unterwasserhindernis. 5 Mann gehen in eine Rettungsinsel. Eine Person hat vermutlich einen Arm gebrochen. Du benötigst sofortige Hilfe.<br><br>Deine Position ist 14 Seemeilen westlich Cap Finisterre.<br><br>Die Motoryacht Albatros [FSt1] (DB0879/211003390) ist 15 sm südwestlich und ist in 60 min vor Ort.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "III",
+    "image": "assets/lagen/lage_III_VI.jpeg",
+    "task": "ÜBUNGSLAGE III<br><br>Du hast heute um 161720 UTC Jun per DSC (CH70) und Sprechfunk (CH16) folgenden Notruf empfangen:<br><br>Mayday, Segelyacht \"Kassiopeia\", MMSI 218759870, Rufzeichen DCLQ, Position 14 Seemeilen westlich Cap Finisterre, Schiff sinkt nach Kollision mit unbekanntem Gegenstand, 5 Mann gehen in eine Rettungsinsel, eines der Besatzungsmitglieder hat vermutlich einen Arm gebrochen.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "IV",
+    "image": "assets/lagen/lage_III_VI.jpeg",
+    "task": "ÜBUNGSLAGE IV<br><br>Du hast heute um 141731 UTC Jun folgenden Notverkehr per DSC (CH70) + Sprechfunk (CH16) empfangen:<br><br>Mayday \"Bye Bye Love\", DEJY, MMSI 211456020, Position 54-35N 010-28E, Yacht sinkt nach Kenterung in schwerer See, 8 Personen sind an Bord, das Boot ist 12 Meter lang und hat einen roten Rumpf, sofortige Hilfe erbeten.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "V",
+    "image": "assets/lagen/lage_III_VI.jpeg",
+    "task": "ÜBUNGSLAGE V<br><br>Auf Ihrer Segelyacht beobachten Sie um 271645 UTC Jul auf einem in Ihrer Nähe fahrenden Schiff eine Explosion.<br><br>Ihre Position ist 52-58N 005-42W, etwa 12 Seemeilen östlich von Wicklow.<br><br>Weitere Hilfe ist dringend notwendig.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "VI",
+    "image": "assets/lagen/lage_III_VI.jpeg",
+    "task": "ÜBUNGSLAGE VI<br><br>Auf Ihrer Segelyacht beobachten Sie um 222130 UTC Jun<br>auf Position 55-16N 016-23E mehrere rote Signalraketen in rechtweisender Peilung von 45 Grad.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "VII",
+    "image": "assets/lagen/lage_VII.jpeg",
+    "task": "ÜBUNGSLAGE VII<br><br>Segelyacht ALDEBARAN, DB0815, stört laufenden Notverkehr mit einem Routineanruf.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "IX",
+    "image": "assets/lagen/lage_IX.jpeg",
+    "task": "ÜBUNGSLAGE IX<br><br>Um 2215 UTC ist der Wassereinbruch gestoppt, das Schiff gelenzt und die Schwimmfähigkeit sichergestellt.<br>Beenden Sie den Funkverkehr",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "X",
+    "image": "assets/lagen/lage_X_XIII.jpeg",
+    "task": "ÜBUNGSLAGE X<br><br>Eines Ihrer Crew-Mitglieder ist von einem umschlagenden Baum am Kopf getroffen und schwer verletzt worden. Die Person ist bewusstlos und blutet aus Mund, Nase und Ohren.<br>Ihre Position ist 39-24.4N 002-41.3E um 221634 UTC Jul.<br>Sie benötigen sofort medizinische Hilfe.<br><br>FSt1 setzt den Funkspruch ab, FSt2 bestätigt den Empfang und leitet den Fukspruch weiter, FSt1 setzt eine Funkstille durch und beendet den Notverkehr nach erfolgter Übergabe des Patienten an den Helikopter",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XI",
+    "image": "assets/lagen/lage_X_XIII.jpeg",
+    "task": "ÜBUNGSLAGE XI<br><br>Etwa 17 Seemeilen nördlich Puttgarden, haben Sie um 231730 UTC Jul eine Kollision mit dem Fischereifahrzeug \"Meyenburg\", Rufzeichen DCYJ.<br><br>Ihre Yacht hat nun ein gefährliches Leck und droht durch Wassereinbruch zu sinken.<br>Sie benötigen sofortige Hilfe.<br><br>FSt2 setzt den Funkspruch ab, FSt1 bestätigt den Empfang und leitet den Fukspruch weiter, FSt2 setzt eine Funkstille durch und beendet den Notverkehr nach erfolgreicher Leckabwehr",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XII",
+    "image": "assets/lagen/lage_X_XIII.jpeg",
+    "task": "ÜBUNGSLAGE XII<br><br>Auf Ihrem Motorboot ist soeben ein Besatzungsmitglied über Bord gegangen.<br>Ihre Position ist etwa 7,5 Seemeilen nordöstlich Kap Arkona um 121400 UTC Jun.<br>Sie benötigen sofortige Hilfe.<br><br>FSt1 setzt den Funkspruch ab, FSt2 bestätigt den Empfang und leitet den Fukspruch weiter, FSt1 setzt eine Funkstille durch und beendet den Notverkehr nach erfolgreicher Bergung des Überbordgefallenen",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XIII",
+    "image": "assets/lagen/lage_X_XIII.jpeg",
+    "task": "ÜBUNGSLAGE XIII<br><br>Ein Besatzungsmitglied, 56 Jahre alt, ist bewusstlos geworden. Verdacht auf Herzinfarkt.<br>Sie benötigen dringend medizinische Hilfe.<br>Ihre Position ist 54-10.56N 007-57.12E.<br><br>FSt2 setzt den Funkspruch ab, FSt1 bestätigt den Empfang und leitet den Fukspruch weiter, FSt2 setzt eine Funkstille durch und beendet den Notverkehr nach erfolgreicher Übergabe des Patienten an den Helikopter",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XIV",
+    "image": "assets/lagen/lage_XIV_XVII.jpeg",
+    "task": "ÜBUNGSLAGE XIV<br><br>Du hast soeben einen Mastbruch erlitten. Der Mast hängt im Wasser und Du benötigst von einem Sportboot Hilfe bei der Bergung.<br><br>Ihre Position ist 56-21.2 N 014-21.5 E um 091340 UTC Jul.<br><br>FSt1 setzt den Funkspruch ab, FSt2 ist zur Hilfeleistung in der Lage, FSt1 beendet den Dringlichkeitsverkehr nach der Bergung des Masts.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XV",
+    "image": "assets/lagen/lage_XIV_XVII.jpeg",
+    "task": "ÜBUNGSLAGE XV<br><br>Du treibst wegen eines Maschinenausfalls manövrierunfähig in schwerer See und hoher Dünung.<br>Du benötigst dringend Schlepperhilfe.<br><br>Deine Position lautet 55-23N 006-18E um 221634 UTC Jul.<br><br>FSt2 setzt den Funkspruch ab, FSt1 ist zur Hilfeleistung in der Lage, FSt2 beendet den Dringlichkeitsverkehr nach dem Schlepp in den Hafen",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XVI",
+    "image": "assets/lagen/lage_XIV_XVII.jpeg",
+    "task": "ÜBUNGSLAGE XVI<br><br>An Bord hat sich eines der Besatzungsmitglieder in der Kombüse eine tiefere Schnittverletzung zugezogen und muss medizinisch behandelt werden.<br><br>Deine Position lautet 55-23N 006-18E um 191321 UTC Jul.<br><br>FSt1 setzt den Funkspruch ab, FSt2 ist zur Hilfeleistung in der Lage, FSt1 beendet den Dringlichkeitsverkehr nach der Übergabe des Patienten an den Arzt",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XVII",
+    "image": "assets/lagen/lage_XIV_XVII.jpeg",
+    "task": "ÜBUNGSLAGE XVII<br><br>Bei Dir an Bord ist soeben das Ruder gebrochen und Du bist manövrierunfähig. Du benötigst Schlepperhilfe.<br><br>Deine Position lautet 52-58N 005-42W um 101214 UTC Jul<br><br>FSt2 setzt den Funkspruch ab, FSt1 ist zur Hilfeleistung in der Lage, FSt2 beendet den Dringlichkeitsverkehr nach dem Schlepp.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XVIII",
+    "image": "assets/lagen/lage_XVIII_XXII.jpeg",
+    "task": "ÜBUNGSLAGE XVIII<br><br>Du hast soeben einen großen, gelb gestrichenen und im Wasser treibenden Container, mit der Aufschrift Acetylsalicylsäure, im Verkehrstrennungsgebiet auf Position 43-47 N 021-33.4 E entdeckt.<br><br>Es wird empfohlen, dass Hindernis weiträumig zu umfahren.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XIX",
+    "image": "assets/lagen/lage_XVIII_XXII.jpeg",
+    "task": "ÜBUNGSLAGE XIX<br><br>Du hast im Fahrwasser zwischen DEN HELDER und DEN OEVER eine verloschene Leucht-Heultonne mit der Beschriftung MG18 gesichtet.<br><br>Die Schifffahrt in diesem Gebiet wird gebeten, vorsichtig zu navigieren",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XX",
+    "image": "assets/lagen/lage_XVIII_XXII.jpeg",
+    "task": "ÜBUNGSLAGE XX<br><br>Du hast auf Position 51-04.9 N 001-52.6 E, DUNKERQUE Ansteuerung, um 141640 UTC Aug ein gefährliches Wrack gesichtet.<br><br>Schiffe werden gebeten, großen Abstand zu halten.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XXI",
+    "image": "assets/lagen/lage_XVIII_XXII.jpeg",
+    "task": "ÜBUNGSLAGE XXI<br><br>Du hast einen Ölteppich von etwa 300m Länge und 100m Breite auf Position 61-15 N 007-45 E gesichtet.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XXII",
+    "image": "assets/lagen/lage_XVIII_XXII.jpeg",
+    "task": "ÜBUNGSLAGE XXII<br><br>Sie haben auf Position 51-28 N 002-40 E Ihren Anker verloren.<br><br>Schiffe in diesem Gebiet werden gebeten, dort weder zu ankern noch Fischereigeschirr zu nutzen.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XXIII",
+    "image": "assets/lagen/lage_XXIII_XXIV.jpeg",
+    "task": "ÜBUNGSLAGE XXIII<br><br>Kontaktieren Sie LYNGBY RADIO und erfrage den aktuellen Seewetterbericht. Im Yachtfunkdienst findest Du die MMSI 00 219 100 0 heraus.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XXIV",
+    "image": "assets/lagen/lage_XXIII_XXIV.jpeg",
+    "task": "ÜBUNGSLAGE XXIV<br><br>Kontaktieren Sie DP07 und frage nach, ob eine Meldung vorliegt. Im Yachtfunkdienst findest Du die MMSI 00 211 200 0 heraus.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XXV",
+    "image": "assets/lagen/lage_XXV_XXVI.jpeg",
+    "task": "ÜBUNGSLAGE XXV<br><br>Kontaktieren Sie EIDER LOCK und erfage die nächste Schleusung in Richtung See. Im Yachtfunkdienst findest Du den Arbeitskanal CH14 heraus.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XXVI",
+    "image": "assets/lagen/lage_XXV_XXVI.jpeg",
+    "task": "ÜBUNGSLAGE XXVI<br><br>Kontaktieren Sie TRAVE TRAFFIC und erfragen die Verkehrslage. In der Seekarte finden Sie den Arbeitskanal (CH13).",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XXVII",
+    "image": "assets/lagen/lage_XXVII_XXVIII.jpeg",
+    "task": "ÜBUNGSLAGE XXVII<br><br>Fordere die vor Dir laufende Segelyacht PINGUIN (den Namen kannst Du am Heck lesen) zu einer Regatta heraus.<br>Startlinie ist zwischen den Tonnen 1 und 2 der Trave.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XXVIII",
+    "image": "assets/lagen/lage_XXVII_XXVIII.jpeg",
+    "task": "ÜBUNGSLAGE XXVIII<br><br>Fordere die querende Motoryacht SEADLER auf den Wellenschlag zu verringern. Eine MMSI ist nicht bekannt.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XXIX",
+    "image": "assets/lagen/lage_XXIX_XXX.jpeg",
+    "task": "ÜBUNGSLAGE XXIX<br><br>Kontaktiere dein Clubkamerad FOFFTEIN/DB0815 MMSI 211 000 440 und sprich mit Ihm ab, welcher Hafen heute Abend angesteuert werden soll.",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "id": "XXX",
+    "image": "assets/lagen/lage_XXIX_XXX.jpeg",
+    "task": "ÜBUNGSLAGE XXX<br><br>Aus dem AIS hast Du die Daten der FINNSTAR/OJMH, MMSI 230 981 000 übernommen. Biete ihr auf einem passenden Kanal an, dass Du ausweichen wirst.",
+    "hint": "Lösung: siehe PDF"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "no": 1,
+    "task": "Übung 1<br><br>Nimm das Funkgerät in Betrieb und überprüfen Sie die Grundeinstellungen.",
+    "image": "assets/pruefung/exam_1_8.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 2,
+    "task": "Übung 2<br><br>Programmiere die Position 54° 10.5’ N und 007° 45.4’ E um 1423 UTC in den DSC-Controller",
+    "image": "assets/pruefung/exam_1_8.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 3,
+    "task": "Übung 3<br><br>Kontrolliere das DSC-Log, welches der letztempfangene Distress-Alert war",
+    "image": "assets/pruefung/exam_1_8.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 4,
+    "task": "Übung 4<br><br>Lesen Sie die MMSI des Funkgerätes aus",
+    "image": "assets/pruefung/exam_1_8.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 5,
+    "task": "Übung 5<br><br>Mensch-Über -Bord auf Position 54° 03,5’ N, 007° 23,5’ E um 2215 MESZ. Sofortige Hilfe bei der Suche ist erforderlich.",
+    "image": "assets/pruefung/exam_1_8.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 6,
+    "task": "Übung 6<br><br>Treibender Container gesichtet. Blaue Farbe mit der weißen Aufschrift “CMA CGM”. Position 43° 35,3’ N, 009° 15,7’ W 0733 UTC – Schifffahrt wird aufgefordert, weiten Abstand zu halten.",
+    "image": "assets/pruefung/exam_1_8.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 7,
+    "task": "Übung 7<br><br>Erkundige Dich bei TRAVE TRAFFIC nach der Verkehrslage auf der Trave. Der VTS-Kanal für die Trave ist CH13.",
+    "image": "assets/pruefung/exam_1_8.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 8,
+    "task": "Übung 8<br><br>Ruderschaden – Du treibst manövrierunfähig in schwerer See. Position 49° 48,6’ N, 004° 25,2’ W um 1644 UTC – Fordere Schlepphilfe von einem Sportboot an.",
+    "image": "assets/pruefung/exam_1_8.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 9,
+    "task": "Übung 9<br><br>Du empfängst an Bord um 1711 UTC den folgenden Funkspruch:<br><br>MAYDAY  Seadler,  Callsign  DD1808,  MMSI  211  003  340,  Position  55-25N  005-45E,  Kenterung  nach<br>Wassereinbruch, sofortige Hilfe erforderlich.<br><br>Du bist nur 3,7sm östlich dieser Position und zur Hilfeleistung in der Lage.",
+    "image": "assets/pruefung/exam_9_17.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 10,
+    "task": "Übung 10<br><br>Leite den empfangenen Funkspruch aus Übung 9 weiter.",
+    "image": "assets/pruefung/exam_9_17.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 11,
+    "task": "Übung 11<br><br>Du treibst um 0535 UTC  manövrierunfähig aufgrund eines  Maschinenproblems  5sm  südlich  von<br>BOURNEMOUTH Du benötigst Schlepphilfe.",
+    "image": "assets/pruefung/exam_9_17.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 12,
+    "task": "Übung 12<br><br>Der Ruf aus Übung 8 kann aufgehoben werden",
+    "image": "assets/pruefung/exam_9_17.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 13,
+    "task": "Übung 13<br><br>Vor zwei Minuten wurde von Deinem Funkgerät versehentlich ein DSC-Notalarm ausgelöst. Widerrufe den<br>Notalarm.",
+    "image": "assets/pruefung/exam_9_17.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 14,
+    "task": "Übung 14<br><br>Eine unbekannte Stelle stört den Notverkehr",
+    "image": "assets/pruefung/exam_9_17.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 15,
+    "task": "Übung 15<br><br>Der Ruf aus Übung 11 kann aufgehoben werden, da Du das Maschinenproblem selbst in den Griff bekommen<br>hast.",
+    "image": "assets/pruefung/exam_9_17.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 16,
+    "task": "Übung 16<br><br>Erfrage bei LYNGBY RADIO (MMSI 00 219 1000) den aktuellen Seewetterbericht",
+    "image": "assets/pruefung/exam_9_17.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 17,
+    "task": "Übung 17<br><br>Du möchtest in der Wesermündung CH16 und den VTS-Kanal BREMERHAVEN WESER TRAFFIC auf CH21<br>gleichzeitig abhören. Stelle Dich Funkgerät entsprechend ein.",
+    "image": "assets/pruefung/exam_9_17.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 18,
+    "task": "Übung 18<br><br>Du segelst 7sm südlich des Leuchtturms “SAINT CATHERINES POINT” und beobachtest um 0115 UTC eine<br>Explosion auf einem Fischkutter ca. 1sm östlich. Du hast keine weiteren Informationen über Funk<br>empfangen, noch hast Du andere Schiffe in Sicht.",
+    "image": "assets/pruefung/exam_18_21.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 19,
+    "task": "Übung 19<br><br>Du möchtest der parallelfahrenden Segelyacht PINGUIN absprechen, welche Bucht angesteuert werden soll.",
+    "image": "assets/pruefung/exam_18_21.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 20,
+    "task": "Übung 20<br><br>Feuer an Bord. Dein Schiff befindet sich um 0410 UTC auf Position 50° 10,2’ N, 002° 25,0’ E. Es sind 6<br>Personen an Bord, das Schiff ist 50 Fuß lang, roter Rumpf und weiße Aufbauten. Sofortige Hilfe ist<br>erforderlich.",
+    "image": "assets/pruefung/exam_18_21.jpeg",
+    "hint": "Lösung: siehe PDF"
+  },
+  {
+    "no": 21,
+    "task": "Übung 21<br><br>Um 0450 UTC ist das Feuer - aus Übung 20 - gelöscht, der Notverkehr kann beendet werden.",
+    "image": "assets/pruefung/exam_18_21.jpeg",
+    "hint": "Lösung: siehe PDF"
+  }
+]
