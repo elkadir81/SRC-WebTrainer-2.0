@@ -482,11 +482,29 @@ function showExam(idx) {
 }
 
 // ---------- Main ----------
+function resetDiktatUI() {
+  $("typedEN").value = "";
+  $("typedDE").value = "";
+  $("result1").textContent = "";
+  $("ref1").classList.add("hidden");
+  $("toggleRef1").textContent = "Referenz anzeigen";
+  if (typeof stopAudio === "function") stopAudio();
+}
+
+function resetDe2EnUI() {
+  $("userEN").value = "";
+  $("result2").textContent = "";
+  $("ref2").classList.add("hidden");
+  if (typeof stopAudio === "function") stopAudio();
+}
+
+
 (async function main() {
   await loadData();
 
   // --- Diktat / DE->EN ---
   fillSelect($("diktatSelect"), texts, (t, idx) => t.title || `Text ${idx+1}`);
+  $("diktatSelect").addEventListener("change", resetDiktatUI);
   fillSelect($("de2enSelect"), texts, (t, idx) => t.title || `Text ${idx+1}`);
 
   $("playAudio").addEventListener("click", () => {
@@ -519,7 +537,11 @@ function showExam(idx) {
     $("dePrompt").innerHTML = `<b>Deutsch:</b><br>${t.de}`;
   }
   updateDEPrompt();
-  $("de2enSelect").addEventListener("change", updateDEPrompt);
+$("de2enSelect").addEventListener("change", () => {
+  updateDEPrompt();
+  resetDe2EnUI();
+});
+
 
   let deShown = true;
   $("toggleDE").addEventListener("click", () => {
